@@ -43,7 +43,7 @@ The instructions below are based on the [quick-start cmake instructions](https:/
 
 ## Release Info
 
-### Release 1
+### Release1
 
 - Commit hash: 474afd33
 - Configuration: Default configuration for Windows
